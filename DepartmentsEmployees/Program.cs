@@ -1,7 +1,7 @@
-﻿using DepartmentsEmployees.Models;
-using DepartmentsEmployees.Data;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using DepartmentsEmployees.Models;
+using DepartmentsEmployees.Data;
 
 namespace DepartmentsEmployees
 {
